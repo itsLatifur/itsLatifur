@@ -6,9 +6,9 @@ I'm Latifur, I am a web-developer. CSE undergraduate from IUBAT.
 ### My GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsLatifur/itsLatifur/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsLatifur/itsLatifur/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsLatifur/itsLatifur/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
 </picture>
 
 <p aligh="left"> <a href="http://www.github.com/itsLatifur"><img src="https://github-readme-stats.vercel.app/api?username=itsLatifur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itsLatifur's GitHub stats" width="420px" /></a> <a href="http://www.github.com/itsLatifur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420px" /></a> </p>
