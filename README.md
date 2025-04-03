@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-th
 
 <br>
 
-### My GitHub Stats
+### My GitHub Stats:
 
 <p align="center">
   <a
@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-th
 
 <br>
 
-<h3>Find me at...</h3>
+### Find me at:
 
 
 <a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; &nbsp;
