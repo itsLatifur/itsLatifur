@@ -1,7 +1,7 @@
-<h2>Hey there! I am Latifur Rahman Limon!&nbsp;<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img
+<h2>Hey there! I am Latifur Rahman Limon. &nbsp; &nbsp;<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" /></a></h2>
 
-I'm Latifur, I am a web-developer. CSE undergraduate from IUBAT.
+I am a web-developer. CSE undergraduate from IUBAT.
 
 ### My GitHub Stats
 
@@ -16,6 +16,6 @@ I'm Latifur, I am a web-developer. CSE undergraduate from IUBAT.
 
 <h3>Find me at...</h3>
 
-<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/latifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/LATIFUR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/latifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; &nbsp;
+<a href="https://www.youtube.com/LATIFUR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> &nbsp; &nbsp;
