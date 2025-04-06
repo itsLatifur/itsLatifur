@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Latifur Rahman Limon &nbsp;<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img
+<h1 align="center">Latifur Rahman &nbsp;<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" /></a></h1></p>
 
 <h3> I am a web-developer. CSE student. </h3>
