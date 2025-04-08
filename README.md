@@ -1,8 +1,13 @@
 <p align="center">
-<h1 align="center">Latifur Rahman &nbsp;
+<h1 align="center">Latifur Rahman
   <br>
-<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" /></a>
-<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&color=0e75b6&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" /></a>
+<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" />
+</a>
+<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" />
+</a>
+
 </h1></p>
 
 <h3> I am a web-developer. CSE student. </h3>
