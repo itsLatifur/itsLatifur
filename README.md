@@ -12,8 +12,8 @@
 ### My GitHub Stats:
 
 <p align="center">
-  <a
-    href="http://www.github.com/itsLatifur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="450px", border-radius="20px"/>
+  <a href="http://www.github.com/itsLatifur">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420px", border-radius="20px"/>
   </a>
 </p>
 
