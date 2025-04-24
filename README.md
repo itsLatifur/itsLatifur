@@ -2,15 +2,21 @@
 <h1 align="center">Latifur Rahman
   <br>
 <a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" />
+  <img src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="21px" />
 </a>
 <a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" />
+  <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=0891b2&labelColor=1c1917" height="21px" />
 </a>
+  <br>
+<p align="center" style="text-align: center;">
+  <a href="https://github.com/itsLatifur" align="center" style="text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=>+Web+Developer+and+Tech+Enthusiast+<;">
+  </a>
+</p>
 
 </h1></p>
 
-<h3> I am a web-developer. CSE student. </h3>
+<h3> I am a web-developer an undergraduate CSE student. </h3>
 
 <br>
 
