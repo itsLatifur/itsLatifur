@@ -8,24 +8,116 @@
   <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=0891b2&labelColor=1c1917" height="21px" />
 </a>
   <br>
-<p align="center" style="text-align: center;">
-  <a href="https://github.com/itsLatifur" align="center" style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=>+Web+Developer+and+Tech+Enthusiast+<;">
-  </a>
+<a href="https://github.com/itsLatifur" align="center" style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=>+Web+Developer+and+Tech+Enthusiast+<;">
+</a>
+</h1> </p>
+
+<br>
+<br>
+
+<!-- About Me -->
+
+<!--
+## About Me:
+<p align="center"> I am a web-developer an undergraduate CSE student. </p>
+
+<br>
+<br>
+-->
+
+<!-- Contact Me -->
+  
+## Contact Me:
+
+<br>
+<br>
+
+<p align="center">
+<a href="mailto:itslatifur@gmail.com">
+    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=red" alt="Gmail>
+
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/latifur">
+  <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn">
+
+</a>
 </p>
 
-</h1></p>
+<br>
+<br>
 
-<h3> I am a web-developer an undergraduate CSE student. </h3>
+<!--
+## Here's where you can find me:
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/dev.smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Codeforces.svg" alt="codecforces" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/dev_smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Codechef.svg" alt="codechef" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/dev_smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/HackerRank.svg" alt="HackerRank" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/dev_smashik/">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.behance.net/smashik369">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Behance.svg" alt="Behance" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+<br>
+<br>
+-->
+
+<!-- Skills -->
+
+<!-- 
+## My Skills:
+  
+```json
+{
+   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript", "Flutter", "UI/UX Design"]
+   "Familiar with": ["C++", "Python", "Dart"]
+   "Operating System": ["Windows", "Linux - Kali Linux"]
+   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving", "Machine Learning"]
+   "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"]
+   "Web development": ["Wordpress Theme Development & Customization"]
+   "Writing Skills": ["Science and Technology based at Mohakash Bigyan O Projukti and Independent Content Writer"]
+   "Leadership Skills": ["Co-Founder and Admin at Mohakash Bigyan O Projukti - Science Education Learning Platform"]
+}
+```
+
+<br>
+<br>  -->
+
+
+## My GitHub Stats:
+<!-- Github Status -->
+
+<br>
+<br>
+
+<p align="center">
+<a href="http://www.github.com/itsLatifur"><img src="https://github-readme-stats.vercel.app/api?username=itsLatifur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Latifur's GitHub stats" width="420px", height="165px", border-radius="20px"/>
+</a> &nbsp;
+
+<a href="http://www.github.com/itsLatifur">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Latifur's GitHub streak" width="420px", height="165px", border-radius="20px"/>
+</a>
 
 <br>
 
-### My GitHub Stats:
+   ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsLatifur&theme=github-dark&custom_title=Latifur's%20Activity%20Graph&hide_border=true)
 
-<p align="center">
-  <a href="http://www.github.com/itsLatifur">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420px", border-radius="20px"/>
-  </a>
 </p>
 
 <p align="center"> <picture align="center">
@@ -35,10 +127,4 @@
 </picture> </p>
 
 <br>
-
-### Find me at:
-
-
-<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/latifur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/LATIFUR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> &nbsp; &nbsp;
+<br>
