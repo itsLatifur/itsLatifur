@@ -35,12 +35,10 @@
 
 <p align="center">
 <a href="mailto:itslatifur@gmail.com">
-    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=red" alt="Gmail>
-
-</a> &nbsp;
+    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=red">
+</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/latifur">
-  <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn">
-
+  <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=grey">
 </a>
 </p>
 
