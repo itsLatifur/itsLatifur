@@ -14,7 +14,6 @@
 </h1> </p>
 
 <br>
-<br>
 
 <!-- About Me -->
 
@@ -31,7 +30,6 @@
 ## Contact Me:
 
 <br>
-<br>
 
 <p align="center">
 <a href="mailto:itslatifur@gmail.com">
@@ -43,7 +41,6 @@
 </a>
 </p>
 
-<br>
 <br>
 
 <!--
@@ -79,24 +76,16 @@
 
 <!-- Skills -->
 
-<!-- 
 ## My Skills:
-  
-```json
-{
-   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript", "Flutter", "UI/UX Design"]
-   "Familiar with": ["C++", "Python", "Dart"]
-   "Operating System": ["Windows", "Linux - Kali Linux"]
-   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving", "Machine Learning"]
-   "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"]
-   "Web development": ["Wordpress Theme Development & Customization"]
-   "Writing Skills": ["Science and Technology based at Mohakash Bigyan O Projukti and Independent Content Writer"]
-   "Leadership Skills": ["Co-Founder and Admin at Mohakash Bigyan O Projukti - Science Education Learning Platform"]
-}
-```
+<br>
+<p align="center">
+    <a href="#" target="_blank"><img alt="java" src="https://github.com/smashik716/Icons/blob/main/Java.svg?style=flat-square&logo=java&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+</p>
 
 <br>
-<br>  -->
 
 
 ## My GitHub Stats:
