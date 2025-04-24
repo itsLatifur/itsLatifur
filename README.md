@@ -25,6 +25,19 @@
 <br>
 -->
 
+<!-- Skills -->
+
+## Languages:
+<br>
+<p align="center">
+    <a href="#" target="_blank"><img alt="java" src="https://github.com/smashik716/Icons/blob/main/Java.svg?style=flat-square&logo=java&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
 <!-- Contact Me -->
   
 ## Contact Me:
@@ -73,20 +86,6 @@
 <br>
 <br>
 -->
-
-<!-- Skills -->
-
-## My Skills:
-<br>
-<p align="center">
-    <a href="#" target="_blank"><img alt="java" src="https://github.com/smashik716/Icons/blob/main/Java.svg?style=flat-square&logo=java&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-     <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-     <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
 
 ## My GitHub Stats:
 <!-- Github Status -->
