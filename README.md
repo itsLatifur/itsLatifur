@@ -2,9 +2,6 @@
 <h1 align="center">Latifur Rahman
   <br>
 <a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/itsLatifur?logo=github&style=for-the-badge&color=2860a1&labelColor=1c1917" height="21px" />
-</a>
-<a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
   <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=2860a1&labelColor=1c1917" height="21px" />
 </a>
   <br>
