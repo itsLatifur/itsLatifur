@@ -1,12 +1,12 @@
 <p align="center">
-<h1 align="center">Latifur Rahman
+<h1 align="center">Latifur Rahman Limon
   <br>
 <a href="https://www.github.com/itsLatifur" target="_blank" rel="noreferrer">
   <img src="https://komarev.com/ghpvc/?username=itsLatifur&label=Profile%20views&style=for-the-badge&color=2860a1&labelColor=1c1917" height="21px" />
 </a>
   <br>
 <a href="https://github.com/itsLatifur" align="center" style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=>+Web+Developer+and+Tech+Enthusiast+<;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+.NET,+React+Developer;">
 </a>
 </h1> </p>
 
@@ -23,20 +23,20 @@
 -->
 
 <!-- Skills -->
-
+<!--
 ## Languages:
 <br>
 <p align="center">
     <a href="#" target="_blank"><img alt="java" src="https://github.com/smashik716/Icons/blob/main/Java.svg?style=flat-square&logo=java&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-     <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="C#" src="https://github.com/smashik716/Icons/blob/main/C#.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
      <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
-
+-->
 <!-- Contact Me -->
-  
+  <!--
 ## Contact Me:
 
 <br>
@@ -52,7 +52,7 @@
 </p>
 
 <br>
-
+-->
 <!--
 ## Here's where you can find me:
 
@@ -89,7 +89,7 @@
 
 <br>
 <br>
-
+<!--
 <p align="center">
 <a href="http://www.github.com/itsLatifur"><img src="https://github-readme-stats.vercel.app/api?username=itsLatifur&show_icons=true&hide=&count_private=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=1c1917&hide_border=true&show_icons=true" alt="Latifur's GitHub stats" width="300px", height="120px", border-radius="20px"/>
 </a> &nbsp;
@@ -97,7 +97,7 @@
 <a href="http://www.github.com/itsLatifur">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsLatifur&stroke=58A6FF&background=1c1917&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&currStreakLabel=58A6FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Latifur's GitHub streak" width="300px", height="120px", border-radius="20px"/>
 </a>
-
+-->
 <br>
 
    ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsLatifur&theme=github-dark&custom_title=Latifur's%20Activity%20Graph&hide_border=true)
